@@ -1,0 +1,35 @@
+.slider .btn {
+  margin-top: 20px;
+}
+
+.section-search input {
+  padding: 5px !important;
+  font-size: 18px !important;
+  width: 90% !important;
+  border: #f4f4f4 3px solid !important;
+}
+
+.section-follow .fa-4x {
+  margin: 5px 10px;
+}
+
+.section-contact h5 {
+  margin-bottom: 30px;
+}
+
+.btn {background-color: #555555;}
+
+.btn btn-large1 {background-color: #555555;}
+
+.btn btn-large2 {background-color: #555555;}
+
+.btn btn-large3 {background-color: #555555;}
+
+.sign-up-form{
+	width: 300px;
+	box-shadow: 0 0 3px 0 rgba(0,0,0,0.3);
+	background: #fff;
+	margin: 8% auto 0;
+	text-align: center;
+
+}
